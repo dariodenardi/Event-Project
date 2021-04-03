@@ -1,6 +1,6 @@
 # Ingegneria del Software T
 
-Progetto finale che è stato realizzato.
+Progetto finale per l'esame di Ingegneria del Software T.
 
 ## Documentazione
 
